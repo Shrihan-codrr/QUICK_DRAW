@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+#my_SCOREY{
+    font-size: 20px ;
+    margin-left: 50px ;
+    float: left ;
+}
+#my_TIMEY{
+    font-size: 20px ;
+    float: right ;
+    margin-right: 50px ;
+}
+#SKETCH_TBdraw{
+    color: red;
+}
